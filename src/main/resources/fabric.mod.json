@@ -9,7 +9,7 @@
 		"Huix"
 	],
 	"contact": {
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/MinecraftIsTooEasy/ClassicEnchantmentTable"
 	},
 	"license": "CC0-1.0",
 	"environment": "*",

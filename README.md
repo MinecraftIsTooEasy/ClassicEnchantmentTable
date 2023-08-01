@@ -1,9 +1,8 @@
-# MITE Fabric Example Mod
+# MITE ClassicEnchantmentTable
+基于1.18.2-MITE-v0.6.5-beta开发,理论上支持全版本
 
-## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## ChangeLog
+### 0.1.0
+* 附魔台重新放入物品可刷新附魔
+* 附魔台仅可放入能附魔的物品
